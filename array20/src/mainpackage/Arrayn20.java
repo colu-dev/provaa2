@@ -7,7 +7,7 @@ public class Arrayn20 {
 		
 		
 		
-int array[]= {1,2,3,5,20,8,2,9,20,50,10,20,20,20};
+int array[]= {1,2,3,5};
 int i;
 int c=0;
     for(i=0;i<array.length;i++){
